@@ -1,2 +1,14 @@
 # 8868sports-directcn-resource
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
